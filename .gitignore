@@ -2,4 +2,7 @@
 /client
 
 #route files are not included
-/routes .crest.py
+/routes 
+
+#ignore the following files
+
